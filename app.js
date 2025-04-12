@@ -4,4 +4,8 @@ function sayHello(name) {
 function add(a, b) {
     return a + b;
 }
-sayHello(' shanti ') 
+sayHello(' shanti Prakash ')
+
+function testprint(params) {
+    console.log("testprint"+);
+}
