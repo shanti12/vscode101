@@ -7,5 +7,5 @@ function add(a, b) {
 sayHello(' shanti Prakash ')
 
 function testprint(params) {
-    console.log("testprint"+);
+    console.log("testprint"+params);
 }
